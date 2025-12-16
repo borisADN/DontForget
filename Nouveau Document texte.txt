@@ -1,0 +1,63 @@
+https://imagineexplainers.com?referral_code=VDRAJ7TJ
+
+http://192.168.139.128/P_MOBILE_WEB/awws/
+
+https://81.91.233.154:445/epebco/
+
+0161910549
+
+0194781277
+
+flutter create --platforms=android application
+
+flutter run --dart-define-from-file=env.json
+
+
+
+
+Travau de la semaine du 24/11/2025
+
+WEB BANKING LARAVEL
+- Page Statique Retrait initié
+- Page Statique Demande de service
+- REMISE DE CHEQUE Page Statique 
+- Agence Page Statique
+- Envoi de Mail Page Statique
+- Recherche agent 
+- Recherche Partenaire
+- Devise Cours
+- Demande de credit operationnelle
+
+
+Travau de la semaine du 01/12/2025
+WEB BANKING LARAVEL
+-Page situation compte : integration de la verification de pin pour la consultation de solde
+-Impression Pdf et excel pour le relevé 
+-Dossier de credit et affichache du tableau d'amortissement
+-Simulation de tableau et impression pdf
+-Situation remboursement
+
+
+Page travailler sur demande de service  / rapport demande de service
+Prendre une heure et travailler sur la biometrie
+discuter avec Gpt demain pour la logike de la biometrie
+ecrire le guide d'integration de excel en laravel
+preparer la base DIFIN FORMATION
+https://storyset.com/  jerondev
+
+
+eceel composer require "maatwebsite/excel:^3.1"   php ini activer extension=gd avant de pourvoir faire des ezport
+
+
+
+10100 
+Okoume@2012
+
+ALTER TABLE P_PRODUIT ADD CREDIT_AUTORISE int null 
+
+
+
+
+
+
+ 
