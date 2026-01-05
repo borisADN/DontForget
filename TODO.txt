@@ -1,0 +1,72 @@
+http://192.168.139.128/P_MOBILE_WEB/awws/
+
+sur ma machine http://localhost:8080/phpmyadmin/
+
+https://81.91.233.154:445/epebco/
+
+0161910549
+
+0194781277
+
+flutter create --platforms=android application
+
+flutter run --dart-define-from-file=env.json
+
+
+Page travailler sur demande de service  / rapport demande de service
+Prendre une heure et travailler sur la biométrie
+discuter avec GPT demain pour la logique de la biométrie
+écrire le guide d'intégration de Excel en LARAVEL
+Le mail du directeur 
+
+
+Excel composer require "maatwebsite/excel:^3.1"   php ini activer extension=gd avant de pourvoir faire des ezport
+
+10100 
+Okoume@2012
+
+
+ALTER TABLE P_PRODUIT ADD CREDIT_AUTORISE int null 
+
+reglement facture =  lance_partenaire_operation
+reglement Achat = lance_partenaire_operation
+
+//liste de demande de service 
+donneeInputServiceType.codeapi				= "pmobile"
+	donneeInputServiceType.methode				= "wdemandeservicetypeliste"
+	donneeInputServiceType.refsession			= tokenSession
+	donneeInputServiceType.moduleope			= "MC"
+
+
+
+rubrik
+
+donneeInputServiceTypeRub.codeapi				= "pmobile"
+					donneeInputServiceTypeRub.methode				= "wdemandeservicerubrique"
+					donneeInputServiceTypeRub.refsession			= tokenSession
+					donneeInputServiceTypeRub.idservicetype			= uneDemandeserv.id
+					donneeInputServiceTypeRub.etatrubrique			= -1
+
+
+//liste de demande service
+
+donneeInput.codeapi					= "pmobile"
+donneeInput.methode					= "wdemandeserviceliste"
+donneeInput.refsession				= tokenSession
+donneeInput.datedebut			= dateDebut
+donneeInput.datefin				= dateFin
+donneeInput.idservicetype		= typeDemande
+donneeInput.webservicetype			= webservicetype
+donneeInput.idservicetypediff		= idservicetypediff
+donneeInput.webservicetypediff	= webservicetypediff
+donneeInput.etat	= etat
+
+
+
+
+
+
+
+
+
+
