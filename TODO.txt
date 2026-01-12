@@ -1,5 +1,3 @@
-http://192.168.139.128/P_MOBILE_WEB/awws/
-
 sur ma machine http://localhost:8080/phpmyadmin/
 
 https://81.91.233.154:445/epebco/
@@ -24,6 +22,9 @@ Excel composer require "maatwebsite/excel:^3.1"   php ini activer extension=gd a
 
 10100 
 Okoume@2012
+eGD@2024
+
+mot de passe perfect FINAM GABON Perfect@passe@
 
 
 ALTER TABLE P_PRODUIT ADD CREDIT_AUTORISE int null 

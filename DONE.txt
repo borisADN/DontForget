@@ -34,7 +34,57 @@ Travaux de la semaine du 22/12/2025
 --2026--
 
 Travaux de la semaine du 05/01/2026
--
+-FINAM CONGO [
+*Vérification des références opérations lors de la première cotisation (FINAM CONGO)
+Finalisation de l'annulation tontine dans tout les cas de figures.
+Intégration des travaux avec Lukas 
+]
+
+-BMF [
+Leur serveur a eu un souci
+le jeudi j'ai eu accès au serveur , j'ai continué le paramétrage suivant les types d'opérations demandées 
+ils n'avaient plus de Sms donc j'ai sursis le travail et leur a demandé de s'approvisionner chez le fournisseur.
+
+]
+
+-COOPEC AD [
+Relance par rapport aux opérations de virements avant de boucler la signature du PV.
+Paramétrage des messages de fêtes (ca na pas marché) j'ai demandé une sauvegarde de leur base pour faire le test en local 
+]
+
+-Difin [
+Certaines versions d'ios n'arrivaient plus a installer l'appli sur Play store 
+ils ont aussi envoyé un mail disant ke les b2w échouaient , on a investigué mais pas encore de solution
+]
+
+-WebBanking [
+Normalement je devais continuer par developper les autres fonctionnalitées mais j'ai suggeré au directeur ke nous prenons un recul pour tester ce ki a eté fait jusk'alors (fonctionnalités de base et les plus utilisées ) 
+
+J'ai commencé avec le B2w et ca ne marchait pas apres investigation il y avait une valeur figée lors de l'appel Api
+Avec lukas on a pensé a comment automatiser la saisie de  cette valeur lors de l'appel 
+j'ai implémenté dans le code.
+
+Tests effectués(pas tout) - document envoyé au Directeur
+ ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
  
